@@ -158,12 +158,12 @@
 
 * **قیمت‌های زنده تمامی ۳۷ ارز و مسکوکات:**
   ```text
-  https://raw.githubusercontent.com/username/repo/main/market.json
+  https://raw.githubusercontent.com/Farid-Madandar/ravand-e-bazar/main/market.json
   ```
 
 * **آرشیو تاریخی هر دارایی:**
   ```text
-  https://raw.githubusercontent.com/username/repo/main/api/history_<symbol>.json
+  https://raw.githubusercontent.com/Farid-Madandar/ravand-e-bazar/main/api/history_<symbol>.json
   ```
   *(نمونه: `history_usd.json`, `history_eur.json`, `history_coin_emami.json`, `history_usd_xau.json`)*
 
