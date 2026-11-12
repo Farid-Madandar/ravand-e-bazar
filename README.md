@@ -170,7 +170,7 @@
 ---
 
 <div align="center">
-<sub>ساخته‌شده با ❤️ توسط <a href="https://t.me/Farid_Madandar">@Farid_Madandar</a> | داده‌ها به صورت خودکار هر ۳۰ دقیقه بروزرسانی می‌شوند</sub>
+<sub>ساخته‌شده با ❤️ توسط <a href="https://t.me/Farid_Madandar">@Farid_Madandar</a> | داده‌ها به صورت خودکار هر ۵ دقیقه بروزرسانی می‌شوند</sub>
 </div>
 
 </div>
