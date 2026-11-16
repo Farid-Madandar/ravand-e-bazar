@@ -3,12 +3,12 @@
   "title": "انس جهانی طلا",
   "unit": "دلار",
   "timezone": "Asia/Tehran",
-  "updated_at": "2026-11-16 03:13:57",
-  "total_records": 1205,
+  "updated_at": "2026-11-16 06:39:46",
+  "total_records": 1206,
   "latest": {
-    "timestamp": 1794753822,
-    "date": "2026-11-15",
-    "price": 3883.31
+    "timestamp": 1794798586,
+    "date": "2026-11-16",
+    "price": 3874.01
   },
   "history": [
     {
@@ -8363,6 +8363,11 @@
       "timestamp": 1794753822,
       "date": "2026-11-15",
       "price": 3883.31
+    },
+    {
+      "timestamp": 1794798586,
+      "date": "2026-11-16",
+      "price": 3874.01
     }
   ]
 }
